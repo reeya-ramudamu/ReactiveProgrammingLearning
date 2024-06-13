@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+      "target": "ESNext",
+      "module": "CommonJS",
+      "outDir": "./dist",
+      "strict": true},
+    "include": ["src/**/*"]
+    
+
+  }
+
+// {
+//   "compilerOptions": {
+//     "module": "es6",
+//     "target": "es5",
+//     "lib": ["es2015", "dom"],
+//     "outDir": "./dist",
+//     "moduleResolution": "node"
+//   },
+//   "include": ["./**/*.ts"]
+// }
